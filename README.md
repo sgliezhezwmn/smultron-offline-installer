@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Smultron Free Installer** — Smultron is a macOS text editor with a clean, minimal interface, syntax highlighting for dozens of languages, multiple document tabs, and split view. Works without internet access, no account required. Full offline installation.
+**💻 Smultron Free Installer** — Smultron is a macOS text editor combining a friendly interface with useful development features. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Smultron
 
-Smultron is a macOS text editor with a clean, minimal interface, syntax highlighting for dozens of languages, multiple document tabs, and split view. It focuses on being a well-designed, native macOS editing experience for casual coding and text editing.
+Smultron is a macOS text editor combining a friendly interface with useful development features. It supports syntax highlighting for many programming languages, snippets, regular expression search, and a split view for comparing files. Smultron aims to be accessible to both casual users and developers, offering a comfortable writing and coding environment on macOS.
 
 ---
 
 ## ❌ Problem: Smultron is hard to access
 
 - **macOS Only** — No Windows or Linux version
-- **Paid App** — Requires purchase from Mac App Store
-- **Limited Advanced Features** — Missing advanced IDE features; best for casual text and code editing
-- **Competition** — BBEdit and Nova offer much more powerful macOS editing experiences
+- **Commercial License** — Paid application from the Mac App Store
+- **Feature Depth** — Less powerful for complex development workflows than JetBrains IDEs
+- **Extension System** — No plugin system for extending functionality
 
 ---
 
@@ -121,7 +121,7 @@ Smultron is a macOS text editor with a clean, minimal interface, syntax highligh
 
 ---
 
-**Smultron Free Installer** — Smultron is a macOS text editor with a clean, minimal interface, syntax highlighting for dozens of languages, multiple document tabs, and split view. Install without internet connection today!
+**Smultron Free Installer** — Smultron is a macOS text editor combining a friendly interface with useful development features. Install without internet connection today!
 
 <div align="center">
 
